@@ -3,3 +3,8 @@ torch
 torchvision
 opencv-contrib-python
 opencv-python
+pandas
+scipy
+tqdm
+PyYAML
+Pillow
