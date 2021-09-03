@@ -10,4 +10,5 @@ PyYAML
 Pillow
 matplotlib
 seaborn
+cmake
 face-recognition
