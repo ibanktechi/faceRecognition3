@@ -10,3 +10,4 @@ PyYAML
 Pillow
 matplotlib
 seaborn
+face-recognition
