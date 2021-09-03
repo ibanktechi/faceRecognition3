@@ -2,7 +2,7 @@ ffmpeg
 libsm6
 libxext6
 build-essential
-cmkae
+cmake
 pkg-config
 libx11-dev
 libatlas-base-dev
